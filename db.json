@@ -1,7 +1,7 @@
 {
   "listings": [
-    {
-      "id": 1,
+    
+    { "id": 1,
       "description": "heater",
       "image": "./images/heater.jpg",
       "location": "BROOKLYN"
